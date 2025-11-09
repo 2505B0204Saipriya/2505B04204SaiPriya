@@ -1,5 +1,5 @@
 # Example of insecure AI-generated login code
-username = "SSKrishna"
+username = "GSaipriya"
 password = "Password@2969"
 
 user = input("Enter username: ")
